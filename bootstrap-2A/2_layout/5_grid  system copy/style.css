@@ -1,0 +1,15 @@
+body{
+  background-color:orange;
+} 
+header{
+  margin: 2vh auto;
+} 
+ header,nav,main,.row div{
+  background-color: white;
+  min-height: 10vh;
+  padding: 2vh;
+  border: 5px solid orange ;
+ } 
+ nav,main{
+  min-height: 82vh;
+ } 
